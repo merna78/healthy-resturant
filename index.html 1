@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>food</title>
+</head>
+<body>
+    <div>
+    <h1> healthy resturant</h1>
+<img src="https://img.yasmina.com/7mWD3P_g8dmngQevLQjkLG8r5G0=/0x687/smart/http://harmony-assets-live.s3.amazonaws.com/image_source/45/c4/45c4973cca7f7f6a84a2d5abb0a35bc58b5e7997.jpg" alt="">
+<h2>about us: our resturant prepare healty foods in adelicious way</h2>
+<h3>
+<ul>Menue</ul>
+<li>soap</li>
+<li>vegetables</li>
+<li>fruits</li>
+</h3>
+    </div>
+
+</body>
+</html>
